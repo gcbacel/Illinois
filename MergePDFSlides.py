@@ -6,7 +6,7 @@ from PyPDF2 import PdfFileMerger
 import os
 import warnings
 warnings.filterwarnings("ignore")
-source_dir = r'E:\Coursera\cs-498\finalexam'
+source_dir = r'E:\Coursera\courseX'
 merger = PdfFileMerger()
 count = 0
 for root, dirs, files in os.walk(source_dir):
