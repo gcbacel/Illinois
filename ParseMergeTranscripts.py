@@ -3,7 +3,7 @@
 # step 3: Run the scipt below
 
 import os
-path = r'E:\Coursera\cs-498\finalexam'
+path = r'E:\Coursera\courseX'
 line_size = 74
 count = 0
 txt_list = []
